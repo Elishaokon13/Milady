@@ -139,7 +139,7 @@
               { id: 3, text: "1,000+ Holders" },
               {
                 id: 4,
-                text: "Get $LADYS trending on twitter with unbridled memetic power",
+                text: "Get $NEW LADYS trending on twitter with unbridled memetic power",
               },
             ],
           },
@@ -166,7 +166,7 @@
               { id: 4, text: "T1 Exchange Listings 100,000+ holders" },
               {
                 id: 5,
-                text: "$LADYS becoming the quintessential token for internet spirituality",
+                text: "$NEW LADYS becoming the quintessential token for internet spirituality",
               },
             ],
           },
@@ -410,13 +410,13 @@
                       className:
                         "text-color_text italic text-xl xl:text-[28px] text-center mt-8 w-full xl:w-[1140px] xl:leading-[44px]",
                       children:
-                        "$LADYS coin has no association with Charlotte Fang or her creation Milady Maker. This token is simply paying homage to a NFT collection we all love and recognize.",
+                        "$NEW LADYS coin has no association with Charlotte Fang or her creation Milady Maker. This token is simply paying homage to a NFT collection we all love and recognize.",
                     }),
                     (0, i.jsx)("p", {
                       className:
                         "text-color_text italic text-xl xl:text-[28px] text-center mt-8 w-full xl:w-[1140px] xl:leading-[44px]",
                       children:
-                        "$LADYS is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and for entertainment purposes only.",
+                        "$NEW LADYS is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and for entertainment purposes only.",
                     }),
                   ],
                 }),
@@ -899,7 +899,7 @@
             },
             title: "Get Some ETH",
             content:
-              "Have ETH in your wallet to switch to $LADYS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.",
+              "Have ETH in your wallet to switch to $NEW LADYS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.",
           },
           {
             icon: {
@@ -911,7 +911,7 @@
             },
             title: "Go to Uniswap",
             content:
-              "Connect to Uniswap. Go to app.uniswap.org in google chrome or on the browser inside your Metamask app. Connect your wallet. Paste the $LADYS token address into Uniswap, select Milady, and confirm. When Metamask prompts you for a wallet signature, sign.",
+              "Connect to Uniswap. Go to app.uniswap.org in google chrome or on the browser inside your Metamask app. Connect your wallet. Paste the $NEW LADYS token address into Uniswap, select Milady, and confirm. When Metamask prompts you for a wallet signature, sign.",
           },
           {
             icon: {
@@ -921,9 +921,9 @@
               blurDataURL:
                 "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAARVBMVEVMaXEXAACNpOdVpNFNkdBqr99ieNROY1eEntGoloVfkts6nsxtk9YkBwdVJBh3TUKQdGOLa1rf39OpjXtXsuC/taCNaloX20WHAAAAFHRSTlMAFsMtjrtOCB6L9qF3IxWLiHlAy+CNQFkAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA1SURBVHicPcs5AoAgEATBFpTZ9QIF/P9TjaDygsESoBuO3SB/D2sLy1W7c7ZNKt2xKNBrM/0prgFktKE4JwAAAABJRU5ErkJggg==",
             },
-            title: "Switch ETH for $LADYS",
+            title: "Switch ETH for $NEW LADYS",
             content:
-              "Switch ETH for $LADYS. We have ZERO taxes so you don’t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.",
+              "Switch ETH for $NEW LADYS. We have ZERO taxes so you don’t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.",
           },
         ],
         z = function () {
@@ -1707,19 +1707,19 @@
             //             "text-3xl lg:text-[40px] text-color_text text-center font-bold font-font_primary",
             //           children: t
             //             ? "Airdrop claim period ended!"
-            //             : "You can claim $LADYS now!",
+            //             : "You can claim $NEW LADYS now!",
             //         }),
             //         (0, i.jsx)("p", {
             //           className:
             //             "mt-8 mb-6 text-color_text font-text italic text-[16px] font-normal text-center",
             //           children:
-            //             "A total of 8,880,008,880,008.88 (1% total supply) $LADYS tokens are now available to be claimed by holders of Milady NFT and $PEPE token.",
+            //             "A total of 8,880,008,880,008.88 (1% total supply) $NEW LADYS tokens are now available to be claimed by holders of Milady NFT and $PEPE token.",
             //         }),
             //         (0, i.jsx)("p", {
             //           className:
             //             "mt-6 mb-8 text-color_text w-full lg:w-[75%] mx-auto font-text italic text-[16px] font-normal text-center",
             //           children:
-            //             "$LADYS tokens that have not been claimed within 7 days will be burned. 2023.05.08 09:00 (UTC+0) - 2023.05.15 09:00 (UTC+0)",
+            //             "$NEW LADYS tokens that have not been claimed within 7 days will be burned. 2023.05.08 09:00 (UTC+0) - 2023.05.15 09:00 (UTC+0)",
             //         }),
             //         (0, i.jsx)(xe, { children: (0, i.jsx)(oe, {}) }),
             //         (0, i.jsx)(xe, { children: (0, i.jsx)(de, {}) }),
