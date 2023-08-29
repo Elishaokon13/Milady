@@ -97,26 +97,26 @@
                           }),
                         ],
                       }),
-                    //   (0, i.jsx)("div", {
-                    //     className: "hidden lg:flex justify-center",
-                    //     children: (0, i.jsx)(r(), {
-                    //       quality: 100,
-                    //       width: 500,
-                    //       height: 500,
-                    //       src: A,
-                    //       alt: "chart",
-                    //     }),
-                    //   }),
-                      (0, i.jsx)("div", {
-                        className: "lg:hidden flex justify-center",
-                        children: (0, i.jsx)(r(), {
-                          quality: 100,
-                          width: 500,
-                          height: 500,
-                          src: d,
-                          alt: "chart",
-                        }),
-                      }),
+                      //   (0, i.jsx)("div", {
+                      //     className: "hidden lg:flex justify-center",
+                      //     children: (0, i.jsx)(r(), {
+                      //       quality: 100,
+                      //       width: 500,
+                      //       height: 500,
+                      //       src: A,
+                      //       alt: "chart",
+                      //     }),
+                      //   }),
+                      // (0, i.jsx)("div", {
+                      //   className: "lg:hidden flex justify-center",
+                      //   children: (0, i.jsx)(r(), {
+                      //     quality: 100,
+                      //     width: 500,
+                      //     height: 500,
+                      //     src: d,
+                      //     alt: "chart",
+                      //   }),
+                      // }),
                     ],
                   }),
                 ],
@@ -229,7 +229,7 @@
                                 "list-disc text-color_text font-text text-base xl:text-xl font-medium italic mt-3 xl:mt-6",
                               children: e.list.map(function (e, t) {
                                 return (0,
-                                i.jsx)("li", { children: e.text }, t);
+                                  i.jsx)("li", { children: e.text }, t);
                               }),
                             }),
                           ],
@@ -401,7 +401,7 @@
                           className: "flex justify-center mt-8 space-x-6",
                           children: y.map(function (e, t) {
                             return (0,
-                            i.jsx)("div", { className: "w-10 h-10 lg:w-[64px] lg:h-[64px] cursor-pointer", children: (0, i.jsx)("a", { target: "_blank", href: e.link, children: (0, i.jsx)(r(), { src: e.icon, alt: "icon" }) }, t) });
+                              i.jsx)("div", { className: "w-10 h-10 lg:w-[64px] lg:h-[64px] cursor-pointer", children: (0, i.jsx)("a", { target: "_blank", href: e.link, children: (0, i.jsx)(r(), { src: e.icon, alt: "icon" }) }, t) });
                           }),
                         }),
                       ],
@@ -438,12 +438,12 @@
         C = a(5135);
       a(9180);
       var k = {
-          src: "/_next/static/media/telgrrgrgrgr.de226323.webp",
-          height: 80,
-          width: 80,
-          blurDataURL:
-            "data:image/webp;base64,UklGRqwAAABXRUJQVlA4WAoAAAAQAAAABwAABwAAQUxQSDQAAAABL6AmAAFGLQ0Fdq4aERG4Q0FBJKmtojQDxwwC0hwgIEUBRPQ/zo5m8BVcoAt0BTf4Z0cDVlA4IFIAAABwAgCdASoIAAgAAkA4JagCdLoB+AACjvEUyMXgAP5qZi34/1z6plXOWVM2qifMfbYk5odVy7xs2eOG/+IeznijOZwnJT/52HbGTOeGH8MP7wgA",
-        },
+        src: "/_next/static/media/telgrrgrgrgr.de226323.webp",
+        height: 80,
+        width: 80,
+        blurDataURL:
+          "data:image/webp;base64,UklGRqwAAABXRUJQVlA4WAoAAAAQAAAABwAABwAAQUxQSDQAAAABL6AmAAFGLQ0Fdq4aERG4Q0FBJKmtojQDxwwC0hwgIEUBRPQ/zo5m8BVcoAt0BTf4Z0cDVlA4IFIAAABwAgCdASoIAAgAAkA4JagCdLoB+AACjvEUyMXgAP5qZi34/1z6plXOWVM2qifMfbYk5odVy7xs2eOG/+IeznijOZwnJT/52HbGTOeGH8MP7wgA",
+      },
         B = [
           {
             icon: {
@@ -521,7 +521,7 @@
               "flex justify-center gap-y-4 gap-x-[24px] lg:gap-y-0 flex-wrap mt-[32px]",
             children: B.map(function (e, t) {
               return (0,
-              i.jsx)("div", { className: "w-[40px] h-[40px] lg:mr-0 cursor-pointer", children: (0, i.jsx)("a", { target: "_blank", href: e.link, children: (0, i.jsx)(r(), { src: e.icon, alt: "icon" }) }) }, t);
+                i.jsx)("div", { className: "w-[40px] h-[40px] lg:mr-0 cursor-pointer", children: (0, i.jsx)("a", { target: "_blank", href: e.link, children: (0, i.jsx)(r(), { src: e.icon, alt: "icon" }) }) }, t);
             }),
           });
         },
@@ -646,7 +646,7 @@
                           duration: 2e3,
                           children: U.map(function (e, t) {
                             return (0,
-                            i.jsx)("div", { children: (0, i.jsxs)("div", { style: (0, v.Z)({}, S), children: [(0, i.jsx)("div", { className: "hidden md:block mx-auto md:max-w-[324px] rounded-lg overflow-hidden", children: (0, i.jsx)(r(), { width: 280, height: 350, src: e.url, alt: "lady", objectFit: "cover" }) }), (0, i.jsx)("div", { className: "w-full mx-auto md:hidden rounded-lg overflow-hidden flex justify-center", children: (0, i.jsx)(r(), { width: 280, height: 350, src: e.url, alt: "lady", objectFit: "cover" }) })] }) }, t);
+                              i.jsx)("div", { children: (0, i.jsxs)("div", { style: (0, v.Z)({}, S), children: [(0, i.jsx)("div", { className: "hidden md:block mx-auto md:max-w-[324px] rounded-lg overflow-hidden", children: (0, i.jsx)(r(), { width: 280, height: 350, src: e.url, alt: "lady", objectFit: "cover" }) }), (0, i.jsx)("div", { className: "w-full mx-auto md:hidden rounded-lg overflow-hidden flex justify-center", children: (0, i.jsx)(r(), { width: 280, height: 350, src: e.url, alt: "lady", objectFit: "cover" }) })] }) }, t);
                           }),
                         }),
                       }),
@@ -661,19 +661,24 @@
                               className:
                                 "font-normal text-[75px] leading-[105px] flex justify-center lg:justify-between items-end w-[245px] h-[60px] mx-auto",
                               children: [
+                                // (0, i.jsx)("div", {
+                                //   className: "w-[80px] h-[80px] mr-[16px]",
+                                //   children: (0, i.jsx)(r(), {
+                                //     src: f,
+                                //     alt: "logo",
+                                //     width: 80,
+                                //     height: 80,
+                                //   }),
+                                // }),
                                 (0, i.jsx)("div", {
-                                  className: "w-[80px] h-[80px] mr-[16px]",
-                                  children: (0, i.jsx)(r(), {
-                                    src: f,
-                                    alt: "logo",
-                                    width: 80,
-                                    height: 80,
-                                  }),
+                                  className:
+                                    "font-bold flex text-[48px] leading-[60px] text-[#262626] font-font_primary m-0 p-0",
+                                  children: " New",
                                 }),
                                 (0, i.jsx)("div", {
                                   className:
-                                    "font-bold text-[48px] leading-[60px] text-[#262626] font-font_primary m-0 p-0",
-                                  children: "Milady",
+                                    "font-bold ml-4 flex text-[48px] leading-[60px] text-[#262626] font-font_primary m-0 p-0",
+                                  children: " Milady",
                                 }),
                               ],
                             }),
@@ -683,18 +688,15 @@
                               children: [
                                 (0, i.jsx)("div", {
                                   children:
-                                    "My Ladies, it's time for a real MiLady which is by the community, for the community.",
+                                    "Miladys knew this New Community would come.NEW LADYS may not be the meme coin Miladys want, but NEW LADYS is the meme coin Miladys need in these times of unbridled memetic power.",
                                 }),
                                 (0, i.jsx)("div", {
                                   className: "mt-[12px]",
                                   children:
-                                    "Miladys knew this New Community would come.LADYS may not be the meme coin Miladys want, but LADYS is the meme coin Miladys need in these times of unbridled memetic power.",
+                                    "You like the art, we make the coin, the Community pumps the coin.              ",
                                 }),
-                                (0, i.jsx)("div", {
-                                  className: "mt-[12px]",
-                                  children:
-                                    "You like the art, we make the coin, the Community pumps the coin.",
-                                }),
+
+
                               ],
                             }),
                           ],
@@ -706,11 +708,11 @@
                           children: [
                             R.map(function (e, t) {
                               return (0,
-                              i.jsxs)("a", { target: "_blank", href: e.link, className: "w-[48%] bg-[#fff] h-[52px] md:mr-0 md:max-w-[210px] md:h-[56px] mb-[16px] last:mb-0 text-[#364C18] italic text-[20px] border-solid border-[1px] border-[#364C18] shadow-[2px_2px_0_#58362C] justify-center flex items-center cursor-pointer font-normal leading-7", children: [(0, i.jsx)("div", { className: "w-[32px] h-[32px] mr-[10px]", children: (0, i.jsx)(r(), { src: e.icon, alt: "token logo", objectFit: "cover", height: 32, width: 32 }) }), (0, i.jsxs)("span", { children: [" ", e.title] })] });
+                                i.jsxs)("a", { target: "_blank", href: e.link, className: "w-[48%] bg-[#fff] h-[52px] md:mr-0 md:max-w-[210px] md:h-[56px] mb-[16px] last:mb-0 text-[#364C18] italic text-[20px] border-solid border-[1px] border-[#364C18] shadow-[2px_2px_0_#58362C] justify-center flex items-center cursor-pointer font-normal leading-7", children: [(0, i.jsx)("div", { className: "w-[32px] h-[32px] mr-[10px]", children: (0, i.jsx)(r(), { src: e.icon, alt: "token logo", objectFit: "cover", height: 32, width: 32 }) }), (0, i.jsxs)("span", { children: [" ", e.title] })] });
                             }),
                             T.map(function (e, t) {
                               return (0,
-                              i.jsxs)("a", { target: "_blank", href: e.link, className: "w-[48%] bg-[#fff] h-[52px] md:mr-0 md:max-w-[210px] last:w-full md:last:max-w-[210px] md:h-[56px] mb-[16px] last:mb-0 text-[#364C18] italic text-[20px] border-solid border-[1px] border-[#364C18] shadow-[2px_2px_0_#58362C] justify-center flex items-center cursor-pointer font-normal leading-7", children: [(0, i.jsx)("div", { className: "w-[32px] h-[32px] mr-[10px]", children: (0, i.jsx)(r(), { src: e.icon, alt: "token logo", objectFit: "cover", height: 32, width: 32 }) }), (0, i.jsxs)("span", { children: [" ", e.title] })] });
+                                i.jsxs)("a", { target: "_blank", href: e.link, className: "w-[48%] bg-[#fff] h-[52px] md:mr-0 md:max-w-[210px] last:w-full md:last:max-w-[210px] md:h-[56px] mb-[16px] last:mb-0 text-[#364C18] italic text-[20px] border-solid border-[1px] border-[#364C18] shadow-[2px_2px_0_#58362C] justify-center flex items-center cursor-pointer font-normal leading-7", children: [(0, i.jsx)("div", { className: "w-[32px] h-[32px] mr-[10px]", children: (0, i.jsx)(r(), { src: e.icon, alt: "token logo", objectFit: "cover", height: 32, width: 32 }) }), (0, i.jsxs)("span", { children: [" ", e.title] })] });
                             }),
                           ],
                         }),
@@ -771,13 +773,19 @@
                         className:
                           "font-normal text-[16px] leading-[24px] md:text-[20px] md:leading-[28px] text-[#262626] mt-[16px] font-text font-style italic",
                         children:
-                          "LADYS is not another meme coin. LADYS is a self-organised meme coin. LADYS is the drip currency. LADYS is the points for karma, charm and beauty. LADYS is the accumulation of clout.",
+                          "LADYS New Community is the tokenisation of the fully memetically optimized white pill.",
                       }),
                       (0, i.jsx)("div", {
                         className:
                           "font-normal text-[16px] leading-[24px] md:text-[20px] md:leading-[28px] text-[#262626] mt-[16px] font-text font-style italic",
                         children:
-                          "Milady meme coin is LADYS, and LADYS is the meme coin for Milady.",
+                          "NEW LADYS is not another meme coin. NEW LADYS is a self-organised meme coin. NEW LADYS is the drip currency. NEW LADYS is the points for karma, charm and beauty. NEW LADYS is the accumulation of clout.Milady meme coin is NEW LADYS, and NEW LADYS is the meme coin for Milady.",
+                      }),
+                      (0, i.jsx)("div", {
+                        className:
+                          "font-normal text-[16px] leading-[24px] md:text-[20px] md:leading-[28px] text-[#262626] mt-[16px] font-text font-style italic",
+                        children:
+                          "My Ladies, it's time for a real MiLady which is by the community, for the community.",
                       }),
                     ],
                   }),
@@ -920,8 +928,8 @@
         ],
         z = function () {
           var e = function () {
-              return (0, q.Am)("Copy Successfully");
-            },
+            return (0, q.Am)("Copy Successfully");
+          },
             t = (0, h.useState)(
               "https://etherscan.io/token/0x12970E6868f88f6557B76120662c1B3E50A646bf"
             ),
@@ -938,7 +946,7 @@
               ((n = (0, V.Z)(
                 O().mark(function t() {
                   return O().wrap(function (t) {
-                    for (;;)
+                    for (; ;)
                       switch ((t.prev = t.next)) {
                         case 0:
                           return (t.next = 2), navigator.clipboard.writeText(a);
@@ -951,14 +959,14 @@
                   }, t);
                 })
               )),
-              function () {
-                return n.apply(this, arguments);
-              }),
+                function () {
+                  return n.apply(this, arguments);
+                }),
             o =
               ((A = (0, V.Z)(
                 O().mark(function t() {
                   return O().wrap(function (t) {
-                    for (;;)
+                    for (; ;)
                       switch ((t.prev = t.next)) {
                         case 0:
                           return (t.next = 2), navigator.clipboard.writeText(l);
@@ -971,9 +979,9 @@
                   }, t);
                 })
               )),
-              function () {
-                return A.apply(this, arguments);
-              });
+                function () {
+                  return A.apply(this, arguments);
+                });
           return (0, i.jsxs)("div", {
             id: "howtobuy",
             className: "w-full px-[16px] overflow-hidden md:overflow-auto",
@@ -992,7 +1000,7 @@
                         className: "mt-[32px] md:mt-[50px] z-10 relative",
                         children: P.map(function (e, t) {
                           return (0,
-                          i.jsxs)("div", { className: "w-full h-auto p-[16px] border-solid border-[1px] border-[#262626] bg-[#FFFFFF] md:px-[40px] md:py-[48px] rounded-[16px] mb-[20px] block md:flex md:justify-between shadow-[4px_4px_0px_#121212]", children: [(0, i.jsx)("div", { className: "flex w-full max-w-[382px] md:max-w-[214px] md:items-center md:justify-end md:mr-[30px]", children: (0, i.jsx)(r(), { src: e.icon, alt: "logo" }) }), (0, i.jsxs)("div", { children: [(0, i.jsx)("div", { className: "font-bold text-[24px] leading-[32px] mt-[24px] md:mt-0 md:text-[32px] md:leading-[36px] font-font_primary", children: e.title }), (0, i.jsx)("div", { className: "font-normal text-[14px] leading-[20px] md:text-[20px] md:leading-[28px] max-w-[880px] mt-[16px] font-text italic", children: e.content })] })] }, t);
+                            i.jsxs)("div", { className: "w-full h-auto p-[16px] border-solid border-[1px] border-[#262626] bg-[#FFFFFF] md:px-[40px] md:py-[48px] rounded-[16px] mb-[20px] block md:flex md:justify-between shadow-[4px_4px_0px_#121212]", children: [(0, i.jsx)("div", { className: "flex w-full max-w-[382px] md:max-w-[214px] md:items-center md:justify-end md:mr-[30px]", children: (0, i.jsx)(r(), { src: e.icon, alt: "logo" }) }), (0, i.jsxs)("div", { children: [(0, i.jsx)("div", { className: "font-bold text-[24px] leading-[32px] mt-[24px] md:mt-0 md:text-[32px] md:leading-[36px] font-font_primary", children: e.title }), (0, i.jsx)("div", { className: "font-normal text-[14px] leading-[20px] md:text-[20px] md:leading-[28px] max-w-[880px] mt-[16px] font-text italic", children: e.content })] })] }, t);
                         }),
                       }),
                       (0, i.jsxs)("div", {
@@ -1180,228 +1188,228 @@
         });
       }
       var Ae = function (e) {
-          var t = e.signature,
-            a = e.address;
-          new Date().getTime();
-          var n,
-            s,
-            l = (0, h.useState)(!1),
-            r = l[0],
-            A = l[1],
-            d = (0, ae.k_)().open,
-            c = (0, te.LN)().chain,
-            o = (0, te.mx)().data,
-            x = (function (e) {
-              var t,
-                a,
-                i = (0, te.mx)().data,
-                n =
-                  ((t = (0, V.Z)(
-                    O().mark(function t(a) {
-                      var n, s, l, r, A, d;
-                      return O().wrap(function (t) {
-                        for (;;)
-                          switch ((t.prev = t.next)) {
-                            case 0:
-                              return (
-                                e || alert("Not found signature!"),
-                                (s = (n = se.splitSignature(e)).r),
-                                (l = n.s),
-                                (r = { v: n.v, r: s, s: l }),
-                                (A = new ne.CH(a, ie, i)),
-                                (t.next = 6),
-                                A.claim(r)
-                              );
-                            case 6:
-                              return (
-                                (d = t.sent),
-                                console.log(
-                                  "approveMint, see transaction: https://testnet.bscscan.com/tx/".concat(
-                                    d.hash
-                                  )
-                                ),
-                                (t.next = 10),
-                                d.wait()
-                              );
-                            case 10:
-                              return t.abrupt("return", t.sent);
-                            case 11:
-                            case "end":
-                              return t.stop();
-                          }
-                      }, t);
-                    })
-                  )),
+        var t = e.signature,
+          a = e.address;
+        new Date().getTime();
+        var n,
+          s,
+          l = (0, h.useState)(!1),
+          r = l[0],
+          A = l[1],
+          d = (0, ae.k_)().open,
+          c = (0, te.LN)().chain,
+          o = (0, te.mx)().data,
+          x = (function (e) {
+            var t,
+              a,
+              i = (0, te.mx)().data,
+              n =
+                ((t = (0, V.Z)(
+                  O().mark(function t(a) {
+                    var n, s, l, r, A, d;
+                    return O().wrap(function (t) {
+                      for (; ;)
+                        switch ((t.prev = t.next)) {
+                          case 0:
+                            return (
+                              e || alert("Not found signature!"),
+                              (s = (n = se.splitSignature(e)).r),
+                              (l = n.s),
+                              (r = { v: n.v, r: s, s: l }),
+                              (A = new ne.CH(a, ie, i)),
+                              (t.next = 6),
+                              A.claim(r)
+                            );
+                          case 6:
+                            return (
+                              (d = t.sent),
+                              console.log(
+                                "approveMint, see transaction: https://testnet.bscscan.com/tx/".concat(
+                                  d.hash
+                                )
+                              ),
+                              (t.next = 10),
+                              d.wait()
+                            );
+                          case 10:
+                            return t.abrupt("return", t.sent);
+                          case 11:
+                          case "end":
+                            return t.stop();
+                        }
+                    }, t);
+                  })
+                )),
                   function (e) {
                     return t.apply(this, arguments);
                   });
-              return {
-                checkUserClaim:
-                  ((a = (0, V.Z)(
-                    O().mark(function e(t, a) {
-                      var n;
-                      return O().wrap(function (e) {
-                        for (;;)
-                          switch ((e.prev = e.next)) {
-                            case 0:
-                              if (a && t) {
-                                e.next = 2;
-                                break;
-                              }
-                              return e.abrupt("return");
-                            case 2:
-                              return (
-                                (n = new ne.CH(t, ie, i)),
-                                (e.next = 5),
-                                n.userClaimed(a)
-                              );
-                            case 5:
-                              return e.abrupt("return", e.sent);
-                            case 6:
-                            case "end":
-                              return e.stop();
-                          }
-                      }, e);
-                    })
-                  )),
-                  function (e, t) {
-                    return a.apply(this, arguments);
-                  }),
-                claim: n,
-              };
-            })(t).claim,
-            m = (0, te.g0)({
-              onMutate: function (e) {},
-              onSuccess: function (e) {},
-            }).switchNetworkAsync,
-            p =
-              ((n = (0, V.Z)(
-                O().mark(function e() {
-                  var t;
-                  return O().wrap(
-                    function (e) {
-                      for (;;)
+            return {
+              checkUserClaim:
+                ((a = (0, V.Z)(
+                  O().mark(function e(t, a) {
+                    var n;
+                    return O().wrap(function (e) {
+                      for (; ;)
                         switch ((e.prev = e.next)) {
                           case 0:
-                            if (!r) {
+                            if (a && t) {
                               e.next = 2;
                               break;
                             }
                             return e.abrupt("return");
                           case 2:
-                            if ((A(!0), (e.prev = 3), !o || !a)) {
-                              e.next = 11;
-                              break;
-                            }
                             return (
-                              (e.next = 7),
-                              x("0xe33d2dd0f21717ef532cf30616ffb64614a4be4e")
+                              (n = new ne.CH(t, ie, i)),
+                              (e.next = 5),
+                              n.userClaimed(a)
                             );
-                          case 7:
-                            A(!1), (0, q.Am)("Successfully!"), (e.next = 12);
-                            break;
-                          case 11:
-                            console.log("Ethereum object does not exist");
-                          case 12:
-                            e.next = 20;
-                            break;
-                          case 14:
-                            var i;
-                            if (
-                              ((e.prev = 14),
-                              (e.t0 = e.catch(3)),
-                              A(!1),
-                              (t = (0, le.r)(e.t0)).errorCode)
-                            )
-                              (i = t.errorCode), q.Am.warn(i);
-                            console.log("-------:catch", t);
-                          case 20:
+                          case 5:
+                            return e.abrupt("return", e.sent);
+                          case 6:
                           case "end":
                             return e.stop();
                         }
-                    },
-                    e,
-                    null,
-                    [[3, 14]]
-                  );
-                })
-              )),
-              function () {
-                return n.apply(this, arguments);
-              }),
-            u =
-              ((s = (0, V.Z)(
-                O().mark(function e() {
-                  var t;
-                  return O().wrap(function (e) {
-                    for (;;)
+                    }, e);
+                  })
+                )),
+                  function (e, t) {
+                    return a.apply(this, arguments);
+                  }),
+              claim: n,
+            };
+          })(t).claim,
+          m = (0, te.g0)({
+            onMutate: function (e) { },
+            onSuccess: function (e) { },
+          }).switchNetworkAsync,
+          p =
+            ((n = (0, V.Z)(
+              O().mark(function e() {
+                var t;
+                return O().wrap(
+                  function (e) {
+                    for (; ;)
                       switch ((e.prev = e.next)) {
                         case 0:
-                          if (a) {
-                            e.next = 3;
+                          if (!r) {
+                            e.next = 2;
                             break;
                           }
-                          return d(), e.abrupt("return");
-                        case 3:
-                          if (
-                            ((t = Number("1")),
-                            !c || (null == c ? void 0 : c.id) === t)
-                          ) {
-                            e.next = 16;
-                            break;
-                          }
-                          return (e.next = 7), m(t);
-                        case 7:
-                          return A(!0), (e.next = 10), re(2500);
-                        case 10:
-                          return A(!1), (e.next = 13), re(500);
-                        case 13:
-                          return (e.next = 15), p();
-                        case 15:
                           return e.abrupt("return");
-                        case 16:
-                          return (e.next = 18), p();
-                        case 18:
+                        case 2:
+                          if ((A(!0), (e.prev = 3), !o || !a)) {
+                            e.next = 11;
+                            break;
+                          }
+                          return (
+                            (e.next = 7),
+                            x("0xe33d2dd0f21717ef532cf30616ffb64614a4be4e")
+                          );
+                        case 7:
+                          A(!1), (0, q.Am)("Successfully!"), (e.next = 12);
+                          break;
+                        case 11:
+                          console.log("Ethereum object does not exist");
+                        case 12:
+                          e.next = 20;
+                          break;
+                        case 14:
+                          var i;
+                          if (
+                            ((e.prev = 14),
+                              (e.t0 = e.catch(3)),
+                              A(!1),
+                              (t = (0, le.r)(e.t0)).errorCode)
+                          )
+                            (i = t.errorCode), q.Am.warn(i);
+                          console.log("-------:catch", t);
+                        case 20:
                         case "end":
                           return e.stop();
                       }
-                  }, e);
-                })
-              )),
+                  },
+                  e,
+                  null,
+                  [[3, 14]]
+                );
+              })
+            )),
+              function () {
+                return n.apply(this, arguments);
+              }),
+          u =
+            ((s = (0, V.Z)(
+              O().mark(function e() {
+                var t;
+                return O().wrap(function (e) {
+                  for (; ;)
+                    switch ((e.prev = e.next)) {
+                      case 0:
+                        if (a) {
+                          e.next = 3;
+                          break;
+                        }
+                        return d(), e.abrupt("return");
+                      case 3:
+                        if (
+                          ((t = Number("1")),
+                            !c || (null == c ? void 0 : c.id) === t)
+                        ) {
+                          e.next = 16;
+                          break;
+                        }
+                        return (e.next = 7), m(t);
+                      case 7:
+                        return A(!0), (e.next = 10), re(2500);
+                      case 10:
+                        return A(!1), (e.next = 13), re(500);
+                      case 13:
+                        return (e.next = 15), p();
+                      case 15:
+                        return e.abrupt("return");
+                      case 16:
+                        return (e.next = 18), p();
+                      case 18:
+                      case "end":
+                        return e.stop();
+                    }
+                }, e);
+              })
+            )),
               function () {
                 return s.apply(this, arguments);
               });
-          return (0, i.jsx)(i.Fragment, {
-            children: (0, i.jsxs)("button", {
-              onClick: function (e) {
-                u();
-              },
-              disabled: r,
-              className:
-                "bg-color_text block font-font_primary font-semibold w-full py-[10px] mt-8 border-solid border-[1px] border-[#fff] shadow-[2px_2px_0_#1C0E0A]",
-              children: [
-                r
-                  ? (0, i.jsxs)("div", {
-                      className:
-                        "max-w-[160px] mx-auto flex justify-center items-center",
-                      children: [
-                        (0, i.jsx)("span", {
-                          className: "ml-4 text-white",
-                          children: "Pending",
-                        }),
-                        (0, i.jsx)("span", { className: "loader" }),
-                      ],
-                    })
-                  : "",
-                !r &&
-                  (0, i.jsx)("span", {
-                    className: "text-[#fff] font-Roslindale_bold text-base",
-                    children: "Claim Airdrop",
-                  }),
-              ],
-            }),
-          });
-        },
+        return (0, i.jsx)(i.Fragment, {
+          children: (0, i.jsxs)("button", {
+            onClick: function (e) {
+              u();
+            },
+            disabled: r,
+            className:
+              "bg-color_text block font-font_primary font-semibold w-full py-[10px] mt-8 border-solid border-[1px] border-[#fff] shadow-[2px_2px_0_#1C0E0A]",
+            children: [
+              r
+                ? (0, i.jsxs)("div", {
+                  className:
+                    "max-w-[160px] mx-auto flex justify-center items-center",
+                  children: [
+                    (0, i.jsx)("span", {
+                      className: "ml-4 text-white",
+                      children: "Pending",
+                    }),
+                    (0, i.jsx)("span", { className: "loader" }),
+                  ],
+                })
+                : "",
+              !r &&
+              (0, i.jsx)("span", {
+                className: "text-[#fff] font-Roslindale_bold text-base",
+                children: "Claim Airdrop",
+              }),
+            ],
+          }),
+        });
+      },
         de = function () {
           var e,
             t,
@@ -1442,7 +1450,7 @@
                   var a;
                   return O().wrap(
                     function (e) {
-                      for (;;)
+                      for (; ;)
                         switch ((e.prev = e.next)) {
                           case 0:
                             if (!t || !1 !== c) {
@@ -1473,14 +1481,14 @@
                   );
                 })
               )),
-              function (t) {
-                return e.apply(this, arguments);
-              }),
+                function (t) {
+                  return e.apply(this, arguments);
+                }),
             x =
               ((t = (0, V.Z)(
                 O().mark(function e() {
                   return O().wrap(function (e) {
-                    for (;;)
+                    for (; ;)
                       switch ((e.prev = e.next)) {
                         case 0:
                           if (r) {
@@ -1507,9 +1515,9 @@
                   }, e);
                 })
               )),
-              function () {
-                return t.apply(this, arguments);
-              });
+                function () {
+                  return t.apply(this, arguments);
+                });
           return (
             (0, h.useEffect)(
               function () {
@@ -1519,13 +1527,13 @@
             ),
             c
               ? (0, i.jsx)("button", {
-                  disabled: !0,
-                  className:
-                    "block bg-color_text opacity-50 text-[#fff] w-full py-[10px] mt-8 border-solid border-[1px] border-color_text shadow-[2px_2px_0_#1C0E0A]",
-                  children: "Claim Airdrop",
-                })
+                disabled: !0,
+                className:
+                  "block bg-color_text opacity-50 text-[#fff] w-full py-[10px] mt-8 border-solid border-[1px] border-color_text shadow-[2px_2px_0_#1C0E0A]",
+                children: "Claim Airdrop",
+              })
               : null === n
-              ? (0, i.jsx)("button", {
+                ? (0, i.jsx)("button", {
                   onClick: function () {
                     x();
                   },
@@ -1533,17 +1541,17 @@
                     "opacity-50 font-font_primary font-semibold block bg-[#262626] text-[#fff] w-full py-[10px] mt-8 border-solid border-[1px] border-color_text shadow-[2px_2px_0_#1C0E0A]",
                   children: "Claim Airdrop",
                 })
-              : A
-              ? (0, i.jsx)("button", {
-                  disabled: !0,
-                  className:
-                    "block bg-color_text text-[#fff] w-full py-[10px] mt-8 border-solid border-[1px] border-[#58362C] shadow-[2px_2px_0_#58362C]",
-                  children: "Claimed",
-                })
-              : (0, i.jsx)(i.Fragment, {
-                  children:
-                    n && r && (0, i.jsx)(Ae, { signature: n, address: r }),
-                })
+                : A
+                  ? (0, i.jsx)("button", {
+                    disabled: !0,
+                    className:
+                      "block bg-color_text text-[#fff] w-full py-[10px] mt-8 border-solid border-[1px] border-[#58362C] shadow-[2px_2px_0_#58362C]",
+                    children: "Claimed",
+                  })
+                  : (0, i.jsx)(i.Fragment, {
+                    children:
+                      n && r && (0, i.jsx)(Ae, { signature: n, address: r }),
+                  })
           );
         },
         ce = a(5553),
@@ -1627,107 +1635,107 @@
         );
       }
       var me = function () {
-          var e = new Date().getTime(),
-            t = Number("1684141200000") <= Number(e);
-          return (0, i.jsxs)("div", {
-            className: "px-[17px] lg:px-0 md:mt-0",
-            children: [
-              (0, i.jsxs)("div", {
-                className:
-                  "w-full lg:w-[800px] relative lg:mx-auto bg-[#fff] border-solid border-2 border-[#262626] rounded-tl-2xl rounded-tr-2xl shadow-[4px_4px_0_#121212]",
-                children: [
-                  (0, i.jsxs)("div", {
-                    className:
-                      " bg-[#ED9D70] py-[10px] px-6 flex justify-between items-center rounded-tl-2xl rounded-tr-2xl border-b-2 border-solid border-[#262626]",
-                    children: [
-                      (0, i.jsxs)("div", {
-                        className: "flex space-x-3",
-                        children: [
-                          (0, i.jsx)("span", {
-                            className:
-                              "inline-block w-4 h-4 bg-[#fff] rounded-full",
-                          }),
-                          (0, i.jsx)("span", {
-                            className:
-                              "inline-block w-4 h-4 bg-[#fff] rounded-full",
-                          }),
-                          (0, i.jsx)("span", {
-                            className:
-                              "inline-block w-4 h-4 bg-[#fff] rounded-full",
-                          }),
-                        ],
-                      }),
-                      (0, i.jsxs)("div", {
-                        className: "flex space-x-3",
-                        children: [
-                          (0, i.jsx)("div", {
-                            className: "w-[19px] h-[19px]",
-                            children: (0, i.jsx)(r(), {
-                              src: g,
-                              alt: "icon",
-                              width: 19,
-                              height: 19,
-                            }),
-                          }),
-                          (0, i.jsx)("div", {
-                            className: "w-[19px] h-[19px]",
-                            children: (0, i.jsx)(r(), {
-                              src: w,
-                              alt: "icon",
-                              width: 19,
-                              height: 19,
-                            }),
-                          }),
-                          (0, i.jsx)("div", {
-                            className: "w-[19px] h-[19px]",
-                            children: (0, i.jsx)(r(), {
-                              src: b,
-                              alt: "icon",
-                              width: 19,
-                              height: 19,
-                            }),
-                          }),
-                        ],
-                      }),
-                    ],
-                  }),
-                  (0, i.jsxs)("div", {
-                    className: "py-12 px-8",
-                    children: [
-                      (0, i.jsx)("h2", {
-                        className:
-                          "text-3xl lg:text-[40px] text-color_text text-center font-bold font-font_primary",
-                        children: t
-                          ? "Airdrop claim period ended!"
-                          : "You can claim $LADYS now!",
-                      }),
-                      (0, i.jsx)("p", {
-                        className:
-                          "mt-8 mb-6 text-color_text font-text italic text-[16px] font-normal text-center",
-                        children:
-                          "A total of 8,880,008,880,008.88 (1% total supply) $LADYS tokens are now available to be claimed by holders of Milady NFT and $PEPE token.",
-                      }),
-                      (0, i.jsx)("p", {
-                        className:
-                          "mt-6 mb-8 text-color_text w-full lg:w-[75%] mx-auto font-text italic text-[16px] font-normal text-center",
-                        children:
-                          "$LADYS tokens that have not been claimed within 7 days will be burned. 2023.05.08 09:00 (UTC+0) - 2023.05.15 09:00 (UTC+0)",
-                      }),
-                      (0, i.jsx)(xe, { children: (0, i.jsx)(oe, {}) }),
-                      (0, i.jsx)(xe, { children: (0, i.jsx)(de, {}) }),
-                    ],
-                  }),
-                  !1,
-                ],
-              }),
-              (0, i.jsx)("div", {
-                className:
-                  "my-[56px] md:my-[80px] max-w-[217px] h-[91px] md:max-w-[265px] md:h-[114px] mx-auto",
-                children: (0, i.jsx)(r(), { src: c, alt: "star icon" }),
-              }),
-            ],
-          });
-        },
+        var e = new Date().getTime(),
+          t = Number("1684141200000") <= Number(e);
+        return (0, i.jsxs)("div", {
+          className: "px-[17px] lg:px-0 md:mt-0",
+          children: [
+            // (0, i.jsxs)("div", {
+            //   className:
+            //     "w-full lg:w-[800px] relative lg:mx-auto bg-[#fff] border-solid border-2 border-[#262626] rounded-tl-2xl rounded-tr-2xl shadow-[4px_4px_0_#121212]",
+            //   children: [
+            //     (0, i.jsxs)("div", {
+            //       className:
+            //         " bg-[#ED9D70] py-[10px] px-6 flex justify-between items-center rounded-tl-2xl rounded-tr-2xl border-b-2 border-solid border-[#262626]",
+            //       children: [
+            //         (0, i.jsxs)("div", {
+            //           className: "flex space-x-3",
+            //           children: [
+            //             (0, i.jsx)("span", {
+            //               className:
+            //                 "inline-block w-4 h-4 bg-[#fff] rounded-full",
+            //             }),
+            //             (0, i.jsx)("span", {
+            //               className:
+            //                 "inline-block w-4 h-4 bg-[#fff] rounded-full",
+            //             }),
+            //             (0, i.jsx)("span", {
+            //               className:
+            //                 "inline-block w-4 h-4 bg-[#fff] rounded-full",
+            //             }),
+            //           ],
+            //         }),
+            //         (0, i.jsxs)("div", {
+            //           className: "flex space-x-3",
+            //           children: [
+            //             (0, i.jsx)("div", {
+            //               className: "w-[19px] h-[19px]",
+            //               children: (0, i.jsx)(r(), {
+            //                 src: g,
+            //                 alt: "icon",
+            //                 width: 19,
+            //                 height: 19,
+            //               }),
+            //             }),
+            //             (0, i.jsx)("div", {
+            //               className: "w-[19px] h-[19px]",
+            //               children: (0, i.jsx)(r(), {
+            //                 src: w,
+            //                 alt: "icon",
+            //                 width: 19,
+            //                 height: 19,
+            //               }),
+            //             }),
+            //             (0, i.jsx)("div", {
+            //               className: "w-[19px] h-[19px]",
+            //               children: (0, i.jsx)(r(), {
+            //                 src: b,
+            //                 alt: "icon",
+            //                 width: 19,
+            //                 height: 19,
+            //               }),
+            //             }),
+            //           ],
+            //         }),
+            //       ],
+            //     }),
+            //     (0, i.jsxs)("div", {
+            //       className: "py-12 px-8",
+            //       children: [
+            //         (0, i.jsx)("h2", {
+            //           className:
+            //             "text-3xl lg:text-[40px] text-color_text text-center font-bold font-font_primary",
+            //           children: t
+            //             ? "Airdrop claim period ended!"
+            //             : "You can claim $LADYS now!",
+            //         }),
+            //         (0, i.jsx)("p", {
+            //           className:
+            //             "mt-8 mb-6 text-color_text font-text italic text-[16px] font-normal text-center",
+            //           children:
+            //             "A total of 8,880,008,880,008.88 (1% total supply) $LADYS tokens are now available to be claimed by holders of Milady NFT and $PEPE token.",
+            //         }),
+            //         (0, i.jsx)("p", {
+            //           className:
+            //             "mt-6 mb-8 text-color_text w-full lg:w-[75%] mx-auto font-text italic text-[16px] font-normal text-center",
+            //           children:
+            //             "$LADYS tokens that have not been claimed within 7 days will be burned. 2023.05.08 09:00 (UTC+0) - 2023.05.15 09:00 (UTC+0)",
+            //         }),
+            //         (0, i.jsx)(xe, { children: (0, i.jsx)(oe, {}) }),
+            //         (0, i.jsx)(xe, { children: (0, i.jsx)(de, {}) }),
+            //       ],
+            //     }),
+            //     !1,
+            //   ],
+            // }),
+            // (0, i.jsx)("div", {
+            //   className:
+            //     "my-[56px] md:my-[80px] max-w-[217px] h-[91px] md:max-w-[265px] md:h-[114px] mx-auto",
+            //   children: (0, i.jsx)(r(), { src: c, alt: "star icon" }),
+            // }),
+          ],
+        });
+      },
         pe = function () {
           return (0, i.jsxs)(i.Fragment, {
             children: [
@@ -1735,7 +1743,7 @@
                 children: [
                   (0, i.jsx)("title", {
                     children:
-                      "Welcome to LADYS, the meme coin of Milady NFT collection.",
+                      "Miladys knew this New Community would come.NEW LADYS may not be the meme coin Miladys want, but NEW LADYS is the meme coin Miladys need in these times of unbridled memetic power.",
                   }),
                   (0, i.jsx)("meta", {
                     name: "description",
